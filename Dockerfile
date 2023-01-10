@@ -1,4 +1,4 @@
-FROM jdk:8
+FROM jdk1.8
 VOLUME /tmp
 ADD target/jenkins-0.0.1-SNAPSHOT.jar app.jar
 EXPOSE 8888
