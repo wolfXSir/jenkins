@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: myjenkins
+
+server:
+  port: 8081
+
